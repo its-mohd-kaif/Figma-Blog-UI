@@ -7,8 +7,8 @@ function AllArticles() {
     <section className="articleSection">
       <div className="articleHeader">All articles</div>
       <div className="articles">
-        {Data.map((val) => (
-          <div className="article">
+        {Data.map((val, index) => (
+          <div key={index} className="article">
             <img className="cardImg" src={val.img} alt="cardImg" />
             <div className="cardTxt">{val.desc}</div>
           </div>

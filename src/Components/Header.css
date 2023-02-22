@@ -36,6 +36,10 @@
 }
 
 @media screen and (max-width: 580px) {
+  .container {
+    width: auto;
+  }
+
   .headerDiv {
     display: grid;
     grid-template-columns: auto;

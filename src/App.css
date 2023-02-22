@@ -4,3 +4,10 @@
   margin: auto;
 }
 
+/* Media Query For App Component */
+
+@media screen and (max-width: 1115px) {
+  .container {
+    width: auto;
+  }
+}
