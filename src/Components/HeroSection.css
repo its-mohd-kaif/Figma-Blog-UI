@@ -1,0 +1,52 @@
+/* Hero Component CSS */
+.HeroSection {
+  width: 676.4px;
+  margin: auto;
+  margin-top: 61px;
+}
+
+.bannerImg {
+  width: 676.4px;
+}
+
+.bannerTxt {
+  font-family: "New York Extra Large";
+  font-size: 42.78px;
+  font-weight: 700;
+  text-align: center;
+  margin-top: 34.85px;
+}
+
+.bannerSubTxt {
+  font-family: "SF Mono";
+  word-spacing: 10px;
+  width: 469px;
+  text-align: center;
+  margin: auto;
+  margin-top: 25.34px;
+}
+
+.hr {
+  border: 0.5px solid #000000;
+  width: 507px;
+  margin: auto;
+  margin-top: 26.93px;
+}
+
+/* Media Query */
+
+@media screen and (max-width: 1115px) {
+  .HeroSection {
+    width: auto;
+    margin: auto;
+    margin-top: 61px;
+  }
+
+  .bannerImg {
+    width: 100%;
+  }
+
+  .hr {
+    width: auto;
+  }
+}
