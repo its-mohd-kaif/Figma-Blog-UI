@@ -1,6 +1,6 @@
 import React from "react";
 import "./AllArticles.css";
-import { Data } from "../Data/Data";
+import {Data} from "../data/Data.js"
 function AllArticles() {
   // All Articles Component
   return (

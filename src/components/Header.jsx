@@ -1,5 +1,5 @@
 import React from "react";
-import logo from "../Images/NORDIC ROSE.png";
+import logo from "../images/NORDIC ROSE.png";
 import "./Header.css";
 function Header() {
   // Header Component

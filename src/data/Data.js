@@ -1,15 +1,15 @@
-import img1 from "../Images/Rectangle 12.png";
-import img2 from "../Images/Rectangle 12(1).png";
-import img3 from "../Images/Rectangle 12(2).png";
-import img4 from "../Images/Rectangle 13.png";
-import img5 from "../Images/Rectangle 13(1).png";
-import img6 from "../Images/Rectangle 13(2).png";
-import img7 from "../Images/Rectangle 14.png";
-import img8 from "../Images/Rectangle 15.png";
-import img9 from "../Images/Rectangle 16.png";
-import img10 from "../Images/Rectangle 17.png";
-import img11 from "../Images/Rectangle 18.png";
-import img12 from "../Images/Rectangle 19.png";
+import img1 from "../images/Rectangle 12.png";
+import img2 from "../images/Rectangle 12(1).png";
+import img3 from "../images/Rectangle 12(2).png";
+import img4 from "../images/Rectangle 13.png";
+import img5 from "../images/Rectangle 13(1).png";
+import img6 from "../images/Rectangle 13(2).png";
+import img7 from "../images/Rectangle 14.png";
+import img8 from "../images/Rectangle 15.png";
+import img9 from "../images/Rectangle 16.png";
+import img10 from "../images/Rectangle 17.png";
+import img11 from "../images/Rectangle 18.png";
+import img12 from "../images/Rectangle 19.png";
 export const Data = [
   {
     img: img1,

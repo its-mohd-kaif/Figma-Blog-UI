@@ -1,8 +1,8 @@
-import Header from "./Components/Header";
+import Header from "./components/Header";
 import "./App.css";
-import HeroSection from "./Components/HeroSection";
-import AllArticles from "./Components/AllArticles";
-import Footer from "./Components/Footer";
+import HeroSection from "./components/HeroSection";
+import AllArticles from "./components/AllArticles";
+import Footer from "./components/Footer";
 function App() {
   return (
     <div className="container">
@@ -10,6 +10,10 @@ function App() {
       <HeroSection />
       <AllArticles />
       <Footer />
+      {/* <Header />
+      <HeroSection />
+      <AllArticles />
+      <Footer /> */}
     </div>
   );
 }

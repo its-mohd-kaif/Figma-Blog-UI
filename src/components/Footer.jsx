@@ -1,6 +1,6 @@
 import React from "react";
 import "./Footer.css";
-import logo from "../Images/NORDIC ROSE(1).png";
+import logo from "../images/NORDIC ROSE(1).png";
 function Footer() {
   // Footer Component
   return (
